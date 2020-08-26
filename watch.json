@@ -6,8 +6,8 @@
         ]
     },
     "restart": {
-        "exclude": [
-            "^public/",
+        "exclude": [            
+          "^public/",
             "^dist/"
         ],
         "include": [
