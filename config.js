@@ -8,3 +8,5 @@ exports.COLOR = process.env.COLOR
 exports.LEVEL = process.env.LEVEL
 exports.create = process.env.create
 exports.GENIUS = process.env.geniusLyricsAPI
+exports.DBLTOKEN = process.env.dbl
+exports.OSUAPI = process.env.APIOSU
